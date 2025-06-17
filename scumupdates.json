@@ -26,7 +26,7 @@
         "UpdateStageName": "ServerSettings.ini File Download",
         "UpdateSourcePlatform": "All",
         "UpdateSource": "FetchURL",
-        "UpdateSourceData": "https://raw.githubusercontent.com/Greelan/AMPTemplates/dev/scumserversettings.ini",
+        "UpdateSourceData": "https://raw.githubusercontent.com/Tigerherz1/AMPTemplates/main/scumserversettings.ini",
         "UpdateSourceTarget": "{{$FullBaseDir}}SCUM/Saved/Config/WindowsServer/ServerSettings.ini",
         "UpdateSourceArgs": "ServerSettings.ini",
         "OverwriteExistingFiles": false,
